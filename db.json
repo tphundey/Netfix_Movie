@@ -1,0 +1,215 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "PCreed III",
+      "price": "1000",
+      "image": "https://image.tmdb.org/t/p/w500/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+      "description": "After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damien Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damien — a fighter who has nothing to lose.",
+      "categoryId": 5,
+      "watch": "https://phimmoichillb.net/xem/tay-dam-huyen-thoai-3-tap-full-pm108451"
+    },
+    {
+      "name": "Avatar: The Way of Water",
+      "price": "100",
+      "image": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "categoryId": 5,
+      "id": 12,
+      "watch": "https://phimmoichillb.net/xem/avatar-2-tap-full-pm105448"
+    },
+    {
+      "name": "Knock at the Cabin",
+      "price": "500",
+      "image": "https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",
+      "description": "While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.",
+      "categoryId": 9,
+      "id": 13,
+      "watch": "https://phimmoichillb.net/xem/tieng-go-o-can-nha-go-tap-full-pm107422"
+    },
+    {
+      "name": "Rick and Morty",
+      "price": "200",
+      "image": "https://image.tmdb.org/t/p/w500/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+      "description": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+      "categoryId": 6,
+      "id": 14,
+      "watch": "https://phimmoichilli.com/phim/rick-va-morty-phan-4/tap-1-351221"
+    },
+    {
+      "name": "Avatar: The Last Airbender",
+      "price": "1000",
+      "image": "https://image.tmdb.org/t/p/w500/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+      "description": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+      "categoryId": 5,
+      "id": 15,
+      "watch": "https://vuighe.net/avatar-the-last-airbender-1/tap-1-cau-be-trong-tang-bang-troi"
+    },
+    {
+      "name": "Carried by the Wind: Tsukikage Ran 2 updated",
+      "price": "20000000",
+      "image": "https://image.tmdb.org/t/p/w500/8iRPnx6DLECdW3I5QSlWKZppXMA.jpg",
+      "description": "Wandering the lands of Japan - Ran is a master swordsman with a strong sense of honor combined with the courage and strength to right wrongs and battle injustice.​ But that doesn't stop her from having a good time! Stuck with an unwanted traveling companion,​ Myao,​ the two will bring law and order to the countryside.​.. if they don't kill each other first.​ A comedic,​ action drama from start to finish - the way of the Samurai will never be the same!",
+      "categoryId": 7,
+      "id": 16,
+      "watch": ""
+    }
+  ],
+  "category": [
+    {
+      "name": "hành động  ",
+      "id": 5
+    },
+    {
+      "name": "tình cảm",
+      "id": 6
+    },
+    {
+      "name": "Tâm lý ",
+      "id": 7
+    },
+    {
+      "name": "Hoạt hình",
+      "id": 8
+    },
+    {
+      "name": "Kinh dị",
+      "id": 9
+    }
+  ],
+  "user": [
+    {
+      "email": "taidvph20044@fpt.edu.vn",
+      "username": "admin",
+      "password": "dinhtai2003",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "user",
+      "username": "user",
+      "password": "dinhtai2003",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "anhnek033@gmail.com",
+      "username": "gfffà",
+      "password": "đuawada",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "anhnek033@gmail.com",
+      "username": "usere3e",
+      "password": "dinhtai2003",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "anhnek033@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "anhnek033@gmail.com",
+      "id": 6
+    },
+    {
+      "email": "taidvph20044@fpt.edu.vn",
+      "id": 7
+    },
+    {
+      "email": "taidvph20044@fpt.edu.vn",
+      "id": 8
+    },
+    {
+      "email": "taidvph20044@fpt.edu.vn",
+      "id": 9
+    },
+    {
+      "email": "taidvph20044@fpt.edu.vn",
+      "id": 10
+    },
+    {
+      "email": "taidvph20044@fpt.edu.vn",
+      "id": 11
+    },
+    {
+      "email": "taidvph20044@fpt.edu.vn",
+      "id": 12
+    },
+    {
+      "email": "taidvph20044@fpt.edu.vn",
+      "id": 13
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "aaaa",
+      "password": "123123",
+      "role": "user",
+      "id": 14
+    }
+  ],
+  "favorites": [
+    {
+      "productId": 16,
+      "id": 4
+    },
+    {
+      "productId": 16,
+      "id": 5
+    },
+    {
+      "productId": 16,
+      "id": 6
+    },
+    {
+      "productId": 16,
+      "id": 7
+    },
+    {
+      "productId": 16,
+      "id": 8
+    },
+    {
+      "productId": 16,
+      "id": 9
+    },
+    {
+      "productId": 15,
+      "id": 10
+    }
+  ],
+  "comment": [
+    {
+      "productId": "2",
+      "author": "Anonymous",
+      "content": "test",
+      "id": 1
+    },
+    {
+      "productId": "12",
+      "author": "Anonymous",
+      "content": "phim hayy",
+      "id": 2
+    },
+    {
+      "productId": "2",
+      "author": "Anonymous",
+      "content": "ổn",
+      "id": 3
+    },
+    {
+      "productId": "14",
+      "author": "Anonymous",
+      "content": "phim 10 điểm",
+      "id": 4
+    },
+    {
+      "productId": "15",
+      "author": "Anonymous",
+      "content": "bản đẹp",
+      "id": 5
+    }
+  ]
+}
